@@ -14,5 +14,5 @@
     <div id="app" style="">
         <main-app></main-app>
     </div>
-    <script src="{{ mix('js/app.js') }}"></script>
+    <script src="{{ mix('js/todos.js') }}"></script>
 @endsection
